@@ -111,8 +111,9 @@ section {
 
 
 /* Hero Style Start */
+
 .hero {
-    background-image: url(./assets/images/hero-bg.jpeg);
+    background-image: url(../images/hero-bg.jpeg);
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -276,7 +277,6 @@ footer div {
 footer a {
     color: #024e76
 }
-
 
 
 
